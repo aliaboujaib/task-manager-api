@@ -5,6 +5,6 @@ and logoutAll from separate devices,api sends email to the user email with welco
 each user has the **authentication** to create tasks with (description and status of the task) and update,delete its own tasks also Read tasks with sorting by createdTime
 and filtering with the completed tasks and apply limitations of the tasks number that should show.
 
-all data was stored in a **MongoDB** product database.
+all data is stored in a **MongoDB** product database.
 
-This api was deployed to heroku [Heroku_URL](https://aboujaib-task-manager.herokuapp.com/).
+This api is deployed to heroku [Heroku_URL](https://aboujaib-task-manager.herokuapp.com/).
